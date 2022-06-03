@@ -20,7 +20,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
     
 - <i class="fa fa-envelope"></i> marciamunick@gmail.com
-    - <i class="fa fa-github"></i> [github.com/ecomunick](https://github.com/ecomunick)
+- <i class="fa fa-github"></i> [github.com/ecomunick](https://github.com/ecomunick)
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/marcia-cabral](https://linkedin.com/in/marcia-cabral)
 - **id**: [orcid.org/0000-0002-2229-9061](https://orcid.org/0000-0002-2229-9061)
 - <i class="fa fa-phone"></i> +351 961465268
