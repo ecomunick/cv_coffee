@@ -1,7 +1,7 @@
 # cv_coffee
 My first CV entire made in RStudio
 
-# Cabbral's Curriculum Vitae
+# Cabral's Curriculum Vitae
 
 My CV made using the [vitae](https://github.com/ropenscilabs/vitae) package for R and a data science résumé built using the [pagedown](https://github.com/rstudio/pagedown) package.
 
