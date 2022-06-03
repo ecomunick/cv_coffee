@@ -10,7 +10,8 @@ output:
   
 Aside
 ================================================================================
-  
+
+
 ![Marcia Cabral](/Users/marcia/Documents/CV/Marcia_CV.png){width=100%}
 <!-- ![Marcia Cabral](`r here::here("Marcia_CV.png")`) -->
   
