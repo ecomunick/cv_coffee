@@ -1,0 +1,289 @@
+---
+  title: "cv_coffee"
+author: "MC"
+date: "`r Sys.Date()`"
+output: 
+  pagedown::html_resume:
+  # set it to true for a self-contained HTML page but it'll take longer to render
+  self_contained: false
+---
+  
+  Aside
+================================================================================
+  
+  
+  ![Marcia Cabral](/Users/marcia/Documents/CV/Marcia_CV.png){width=100%}
+<!-- ![Marcia Cabral](`r here::here("Marcia_CV.png")`) -->
+  
+  Coffee addict specializing in statistical modeling, research practices and teaching. On the market for data science and researching positions.
+
+Contact Info {#contact}
+  --------------------------------------------------------------------------------
+    
+    - <i class="fa fa-envelope"></i> marciamunick@gmail.com
+    - <i class="fa fa-github"></i> [github.com/ecomunick](https://github.com/ecomunick)
+    - <i class="fa fa-linkedin"></i> [linkedin.com/in/marcia-cabral](https://linkedin.com/in/marcia-cabral)
+    - **id**: [orcid.org/0000-0002-2229-9061](https://orcid.org/0000-0002-2229-9061)
+    - <i class="fa fa-phone"></i> +351 961465268
+    
+    Skills {#skills}
+      --------------------------------------------------------------------------------
+        
+        - Multivariate data analysis
+      
+      - Expert in R and R Studio
+      
+      - Expert in communicating to scientific and general public
+      
+      - Some Python and SQL
+      
+      
+      Main
+      ================================================================================
+        
+        Marcia Cabral {#title}
+          --------------------------------------------------------------------------------
+            
+            ### Data science, Statistics Modeling, Research practices
+            
+            
+            Work Experience {data-icon=chalkboard-teacher}
+          --------------------------------------------------------------------------------
+            
+            ### Data Scientist
+            
+            NielsenIQ
+          
+          Sofia, Bulgaria
+          
+          04.2022 -- Present
+          
+          - Support the development of new/improved methodologies (e.g. data interpretation, representation/ sampling, bias reduction, indirect estimation, data integration, automation, data validation).
+          - Help qualify the business and product initiatives by identifying the needs of the clients and matching them to the appropriate methodology
+          - Support documentation of findings, methodologies, and best practices.
+          
+          ### Techincal Support Specialist
+          
+          Telus International Bulgaria
+          
+          Sofia, Bulgaria
+          
+          05.2021--03.2022
+          
+          - Provide technical support, to business clients (B2B), from a big cloud company.
+          - Develop a broad understanding of customer’s situation by reviewing, reproducing and troubleshooting possible root causes of customer's queries.
+
+
+### Extracurricular Activities Teacher
+
+Tempos Brilhantes Assocation
+
+Aveiro, Portugal
+
+06.2019--06.2020
+
+- Extracurricular support activities in schools of Aveiro, with children from different social realities.
+- Teaching and play about respect and citizenship with a focus also on environmental aspects and arts.
+
+
+### Collaborative Researcher
+
+University of Aveiro - UA
+
+Aveiro, Portugal
+
+02.2014--12.2019
+
+- Gather and analysis of spatial data from three endangered semi-aquatic mammals *Pteronura brasiliensis*, *Lutra lutra* and *Galemys pirenaicus* in hydroelectric lakes in Brazilian Amazon and in Northern Portugal.
+- Demonstrated uses of R Notebooks for biological research
+
+### Project Analyst
+
+Research Support Foundation of the State of Amazonas - FAPEAM
+
+Manaus, Brazil
+
+10.2013--01.2014
+
+- Monitoring relevant processes to activities performed in the action lines of Science, Technology and Innovation - CT&I. 
+- Control and organize the relevant administrative processes to the activities performed in each area of organization.
+
+
+### Junior Researcher
+
+Associação Amigos do Peixe-boi / Friends of the Amazon manatee Association - AMPA (NGO)
+
+Manaus, Brazil
+
+01.2010--10.2011
+
+- Monitoring by telemetry in order to get a comprehensive view of habitat use from *Pteronura brasiliensis* in a hydroelectric lake in Brazilian Amazon.
+- Gathering and analysis of spatial and behavior data.
+- Management of volunteers in the field. 
+- Technical and financial reports.
+
+
+### Assistant Researcher
+
+National Amazon Research Institute - INPA (Giant Otter Project)
+
+Manaus, Brazil
+
+01.2005--09.2013
+
+- Monitoring by telemetry in order to get a comprehensive view use of habitat from *Pteronura brasiliensis* in a hydroelectric lake in Brazilian Amazon.
+- Gathering and analysis of spatial and behavior data.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### National Amazon Research Institute - INPA
+
+M.S. in Management of Protected Areas in Amazon
+
+Manaus, AM, Brazil
+
+2010--2012
+
+Thesis: Understanding of riparian areas relative to giant otters (*Pteronura brasiliensis*) and the management of two distinct categories of Protected Areas in the Brazilian Amazon
+
+
+### University Center of the North - UNINORTE
+
+B.Sc. in Biology
+
+Manaus, AM, Brazil
+
+2001--2004
+
+Thesis: Behavioral study of a cubs Amazonian manatee *Trichechus inunguis* (Sirenia:Trichechidae) under captive conditions
+
+
+Certification {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+
+### Google Data Analytics Certificate
+
+Coursera | Google
+
+April 2022
+
+- Data aggregation, data analytics, data calculation, data cleaning, data ethics, 
+data visualization, presentation, problem solving, R and RStudio, Spreadsheet, 
+SQL, structured thinking
+- Credential code 5ZB666ZHPXHB
+- No expiration date
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Research Assistant in Biology and Ecology of Global Changes
+
+Biology Department, University of Aveiro - UA
+
+Aveiro, AV, Portugal
+
+2014--2019
+
+- Designed and carried out multiple field experiments in North of Portugal and the Brazilian Amazon
+- Developed a strong understanding of spatial approaches to analyzing habitat use of three semi aquatic mammals
+- Analyzed data using generalized linear mixed effects models
+
+### Graduate Research Assistant
+
+National Amazon Research Institute - INPA
+
+Manaus, AM, Brazil
+
+2005--2011
+
+- Designed and conducted a multi-year field experiment
+- Field team coordination and training
+- Provided technical and financial reports
+
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+
+### Giant otter behaviour in a mega-hydroelectric reservoir, Central Amazon, Brazil
+
+Animal Biology (2021). doi:10.1163/15707563-bja10060
+
+N/A
+
+2021
+
+CS Ramalheira, **MMM Cabral**, VMF da Silva, FCW Rosas
+
+### First record of jaguar predation on giant otter (*Pteronura brasiliensis*)
+
+Animal Biology 65, 81–86 (2015). doi:10.1163/15707563-00002461
+
+N/A
+
+2015
+
+CS Ramalheira, BF Bozzetti, AD da Cruz, AF Palmeirim, **MMM Cabral**, FCW Rosas
+ 
+### Sleeping sites used by giant otters (*Pteronura brasiliensis*) in the balbina hydroelectric reservoir, central Brazilian Amazon
+
+Aquatic Mammals 41, 143–148 (2015). doi:10.1578/AM.41.2.2015.143
+
+N/A
+
+2015
+
+RCW Rosas,  CS Ramalheira,  BF Bozzetti,  AF Palmeirim,  AD da Cruz,  DB Pathek,  **MMM Cabral**
+
+### Tagging giant otters (*Pteronura brasiliensis*) (Carnivora, Mustelidae) for radio-telemetry studies
+
+Aquatic Mammals 37(2), 208-212 (2011). doi:10.1578/AM.37.2.2011.208
+
+N/A
+
+2011
+
+L Silveira, MM Furtado, FCW Rosas,  LCLC Silva, **MMM Cabral**, NM Tôrres,  R Sollmann, A Kouba, ATA Jácomo
+
+
+### Feeding habits of giant otters *Pteronura brasiliensis* (Carnivora: Mustelidae) in the Balbina hydroelectric reservoir, central Brazilian Amazon
+
+Zoologia 27(1), 47-53 (2010). doi:10.1590/S1984-46702010000100008
+
+N/A
+
+2010
+
+**MMM Cabral**, J Zuanon, GE de Mattos,  FCW Rosas
+
+### Parental and alloparental care of giant otters (*Pteronura brasiliensis*) (Carnivora, mustelidae) in Balbina hydroelectric lake, Amazonas, Brazil
+
+Zoologia 54(3), 919-924 (2009). doi:10.1590/S1984-46702010000100008
+
+N/A
+
+2009
+
+FCW Rosas, **MMM Cabral**, GE de Mattos, RE Silva
+
+### The use of hydroelectric lakes by giant otters Pteronura brasiliensis: Balbina lake in central Amazonia, Brazil
+
+Oryx 41(4), 520-524 (2007). doi:10.1017/S0030605307005121
+
+N/A
+
+2007
+
+FCW Rosas, GE de Mattos, **MMM Cabral**
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
