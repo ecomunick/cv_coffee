@@ -1,77 +1,76 @@
 ---
-  title: "cv_coffee"
+title: "cv_coffee"
 author: "MC"
 date: "`r Sys.Date()`"
 output: 
   pagedown::html_resume:
-  # set it to true for a self-contained HTML page but it'll take longer to render
-  self_contained: false
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
 ---
   
-  Aside
+Aside
 ================================================================================
   
-  
-  ![Marcia Cabral](/Users/marcia/Documents/CV/Marcia_CV.png){width=100%}
+![Marcia Cabral](/Users/marcia/Documents/CV/Marcia_CV.png){width=100%}
 <!-- ![Marcia Cabral](`r here::here("Marcia_CV.png")`) -->
   
-  Coffee addict specializing in statistical modeling, research practices and teaching. On the market for data science and researching positions.
+Coffee addict specializing in statistical modeling, research practices and teaching. On the market for data science and researching positions.
 
 Contact Info {#contact}
-  --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
     
-    - <i class="fa fa-envelope"></i> marciamunick@gmail.com
+- <i class="fa fa-envelope"></i> marciamunick@gmail.com
     - <i class="fa fa-github"></i> [github.com/ecomunick](https://github.com/ecomunick)
-    - <i class="fa fa-linkedin"></i> [linkedin.com/in/marcia-cabral](https://linkedin.com/in/marcia-cabral)
-    - **id**: [orcid.org/0000-0002-2229-9061](https://orcid.org/0000-0002-2229-9061)
-    - <i class="fa fa-phone"></i> +351 961465268
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/marcia-cabral](https://linkedin.com/in/marcia-cabral)
+- **id**: [orcid.org/0000-0002-2229-9061](https://orcid.org/0000-0002-2229-9061)
+- <i class="fa fa-phone"></i> +351 961465268
     
-    Skills {#skills}
-      --------------------------------------------------------------------------------
+Skills {#skills}
+--------------------------------------------------------------------------------
         
-        - Multivariate data analysis
+- Multivariate data analysis
       
-      - Expert in R and R Studio
+- Expert in R and R Studio
       
-      - Expert in communicating to scientific and general public
+- Expert in communicating to scientific and general public
       
-      - Some Python and SQL
+- Some Python and SQL
       
       
-      Main
-      ================================================================================
+Main
+================================================================================
         
-        Marcia Cabral {#title}
-          --------------------------------------------------------------------------------
+Marcia Cabral {#title}
+--------------------------------------------------------------------------------
             
-            ### Data science, Statistics Modeling, Research practices
+### Data science, Statistics Modeling, Research practices
             
             
-            Work Experience {data-icon=chalkboard-teacher}
-          --------------------------------------------------------------------------------
+Work Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
             
-            ### Data Scientist
+### Data Scientist
             
-            NielsenIQ
+NielsenIQ
           
-          Sofia, Bulgaria
+Sofia, Bulgaria
           
-          04.2022 -- Present
+04.2022 -- Present
           
-          - Support the development of new/improved methodologies (e.g. data interpretation, representation/ sampling, bias reduction, indirect estimation, data integration, automation, data validation).
-          - Help qualify the business and product initiatives by identifying the needs of the clients and matching them to the appropriate methodology
-          - Support documentation of findings, methodologies, and best practices.
+- Support the development of new/improved methodologies (e.g. data interpretation, representation/ sampling, bias reduction, indirect estimation, data integration, automation, data validation).
+- Help qualify the business and product initiatives by identifying the needs of the clients and matching them to the appropriate methodology
+- Support documentation of findings, methodologies, and best practices.
           
-          ### Techincal Support Specialist
+### Techincal Support Specialist
           
-          Telus International Bulgaria
+Telus International Bulgaria
           
-          Sofia, Bulgaria
+Sofia, Bulgaria
           
-          05.2021--03.2022
+05.2021--03.2022
           
-          - Provide technical support, to business clients (B2B), from a big cloud company.
-          - Develop a broad understanding of customer’s situation by reviewing, reproducing and troubleshooting possible root causes of customer's queries.
+- Provide technical support, to business clients (B2B), from a big cloud company.
+- Develop a broad understanding of customer’s situation by reviewing, reproducing and troubleshooting possible root causes of customer's queries.
 
 
 ### Extracurricular Activities Teacher
